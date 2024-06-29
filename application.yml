@@ -9,5 +9,5 @@ eureka:
 
 microservice:
      payment-service:
-              endpoint: http://PAYMENT-SERVICE/payment/save
+              endpoint: http://PAYMENT-SERVICE/payment/order/save
     
